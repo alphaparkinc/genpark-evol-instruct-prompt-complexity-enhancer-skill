@@ -1,0 +1,11 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "genpark-evol-instruct-prompt-complexity-enhancer-skill"
+version = "1.0.0"
+description = "Evolutionary prompt mutation algorithm adding constraints, deepening reasoning, and increasing problem complexity"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = []

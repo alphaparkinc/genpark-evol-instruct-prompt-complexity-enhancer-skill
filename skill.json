@@ -1,0 +1,20 @@
+{
+  "name": "genpark-evol-instruct-prompt-complexity-enhancer-skill",
+  "version": "1.0.0",
+  "description": "Evolutionary prompt mutation algorithm adding constraints, deepening reasoning, and increasing problem complexity",
+  "category": "Service",
+  "dependencies": [],
+  "topics": [
+    "mcp",
+    "evol-instruct",
+    "synthetic-data",
+    "prompt-engineering",
+    "complexity-enhancer",
+    "reasoning-mutation",
+    "python-standard-library",
+    "agent-skills",
+    "data-synthesis",
+    "dataset-prep",
+    "developer-tools"
+  ]
+}

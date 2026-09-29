@@ -1,0 +1,6 @@
+name: genpark-evol-instruct-prompt-complexity-enhancer-skill
+version: 1.0.0
+description: Evolutionary prompt mutation algorithm adding constraints, deepening reasoning, and increasing problem complexity
+command: python
+args:
+  - mcp_server.py
